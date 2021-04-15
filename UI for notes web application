@@ -1,1 +1,5 @@
-
+After enter in notes application we have add button in it. 
+On clicking add button we can see blank page where we can add description in it. 
+After adding content we can save that description.
+After saving file we will redirect to home page where we can see add button and saved description with date and time.
+And at last we can also perform Edit and Update functionality on clicking description we want to edit or update.
